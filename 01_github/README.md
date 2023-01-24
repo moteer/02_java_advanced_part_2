@@ -6,6 +6,7 @@
 6. Create/Initialise your local git repo and commit your game project to your local git repository. Use the following command to have your main branch called main.
 
 ``git init -b main``
+
 5. Create a .gitignore file and add all files and folders to it that you do not want to share.
 6. Create an initial commit to your local repository.
 7. Login to your GitHub account (website).
